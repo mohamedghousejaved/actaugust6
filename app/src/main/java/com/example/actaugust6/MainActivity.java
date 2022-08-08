@@ -11,6 +11,9 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class MainActivity extends AppCompatActivity {
+
+    /// new change or update at AS
+
     TextView tv;
    // TextView cv;
   //  TextView format;
@@ -65,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
       //  ed.putString("gup",format.getText().toString());
       //  ed.commit();
 ///ggg
+
     }
 /*
     @Override
